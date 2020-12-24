@@ -11,6 +11,5 @@ This was created with the purpose of finding strong trending stocks, as i failed
 any good trend indicators other than 52 week high, stochastics, etc..
 
 
-https://github.com/oscarm417/Momentum-Stock-Indicator/blob/main/image.png
 
-
+![Screenshot](image.png)
